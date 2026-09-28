@@ -1,0 +1,29 @@
+--- Starting Full Analysis for RA=187.274535, Dec=2.048654 ---
+--- Processing Filter: F606W ---
+Searching for observations with filter: F606W...
+Retrieved 69 results. Identifying maximum exposure duration...
+Selected Observation ID: hst_skycell-p1369x14y11_acs_wfc_f606w_all (Exposure: 9416.0s)
+Downloading FITS files for: hst_skycell-p1369x14y11_acs_wfc_f606w_all...
+Processing file: hst_skycell-p1369x14y11_acs_wfc_f606w_all_drc.fits.gz
+Result for F606W: Flux=1.03e-20, Error=1.02e-21, Pivot=5921.8916
+--- Processing Filter: F814W ---
+Searching for observations with filter: F814W...
+No results found for filter F814W.
+Skipping filter F814W (no observations found).
+--- Processing Filter: F435W ---
+Searching for observations with filter: F435W...
+Retrieved 12 results. Identifying maximum exposure duration...
+Selected Observation ID: hst_9294_03_acs_wfc_f435w_j8ea03 (Exposure: 1821.0s)
+Downloading FITS files for: hst_9294_03_acs_wfc_f435w_j8ea03...
+Processing file: hst_9294_03_acs_wfc_f435w_j8ea03_drz.fits.gz
+Result for F435W: Flux=3.45e-20, Error=7.39e-21, Pivot=4329.1694
+--- Analysis Complete. Data saved to hst_sed_table.csv ---
+Step: Initiating SED plot generation.
+Step: SED plot saved to computer as hst_sed_plot.png.
+Discovering all available HST images for RA: 187.274535, Dec: 2.048654
+Discovering all available HST images for RA: 187.274535, Dec: 2.048654
+Found data for filters: ['', 'CLEAR1;CLEAR2;F140M;CLEAR4', 'CLEAR1;CLEAR2;F170M;CLEAR4', 'CLEAR1;CLEAR2;F210M;CLEAR4', 'F1042M;F437N', 'F105W', 'F110W', 'F150LP', 'F160W', 'F190N', 'F222M', 'F2ND;CLEAR2;F210M;CLEAR4', 'F300W', 'F336W', 'F435W', 'F475W', 'F4ND;CLEAR2;F210M;CLEAR4', 'F502N', 'F547M', 'F550M', 'F555W', 'F606W', 'F622W', 'F785LP', 'F814W', 'F850LP', 'FR601N', 'FR782N', 'MIRNUV', 'MIRVIS', 'POL0;F430W;CLEAR3;CLEAR4', 'POL120;F430W;CLEAR3;CLEAR4', 'POL60;F430W;CLEAR3;CLEAR4', 'detection']
+Discovering all available HST images for RA: 187.274535, Dec: 2.048654
+Error during discovery search: ESAHubbleClass.cone_search_criteria() got an unexpected keyword argument 'instrument'
+Discovering all available HST images for RA: 187.274535, Dec: 2.048654
+Found data for filters: ['F435W', 'F606W', 'F850LP', 'FR601N', 'FR782N', 'detection']

@@ -1,0 +1,3 @@
+Filter,Pivot_Wavelength_A,Flux_erg_cm2_s_A,Error_Flux,Observation_ID
+F606W,5921.8916,1.030378e-20,1.0162803e-21,hst_skycell-p1369x14y11_acs_wfc_f606w_all
+F435W,4329.1694,3.4517875e-20,7.386377e-21,hst_9294_03_acs_wfc_f435w_j8ea03
